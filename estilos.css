@@ -34,3 +34,8 @@ background-color: #444;
 td {
 font-size: 14px;
 }
+
+table td {
+text-align: center;
+vertical-align: middle;
+}
